@@ -1,16 +1,16 @@
-algoritmo "Eu: Ola soy gay. everyone: Yipee Eu:Menti, soy racista. everyone: AAAAAAAAHHHHHH"
-// Função : Olá Mundo
+algoritmo "a"
+// FunÃ§Ã£o : OlÃ¡ Mundo
 // Autor : Guilherme da Silva Gimenes "The Monkey"
 // Data : 28/02/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 text: caracter
 
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 
-text <- "Olá Mundo!!!!!!!!!!!!"
+text <- "OlÃ¡ Mundo!!!!!!!!!!!!"
 escreva (text)
 
 text <- "Outro textoskjkjkjkjkjk"
