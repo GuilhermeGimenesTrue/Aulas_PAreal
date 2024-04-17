@@ -11,7 +11,7 @@ L,area:real
 inicio
 // Seção de Comandos
 
-escreva ("Digite o lado do quadrado mermão:")
+escreva ("Digite o lado do quadrado:")
 leia(L)
 
 area <- L*L
