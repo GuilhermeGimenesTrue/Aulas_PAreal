@@ -1,6 +1,6 @@
 algoritmo "a"
 // Função : Olá Mundo
-// Autor : Guilherme da Silva Gimenes "The Monkey"
+// Autor : Guilherme da Silva Gimenes 
 // Data : 28/02/2024
 // Seção de Declarações 
 var
