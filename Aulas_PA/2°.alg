@@ -1,22 +1,22 @@
 algoritmo "CalculeAreaeLeQuadrade"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 28/02/2024
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 
 L,area:real
 
 
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 
-escreva ("Digite o lado do quadrado mermão:")
+escreva ("Digite o lado do quadrado mermÃ£o:")
 leia(L)
 
 area <- L*L
 
-escreval ("Aárea do quadrado é: ",area)
+escreval ("AÃ¡rea do quadrado Ã©: ",area)
 escreval (" ---- ")
 escreval ("|    |")
 escreval ("|    |")
